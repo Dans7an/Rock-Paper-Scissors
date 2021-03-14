@@ -5,7 +5,7 @@ Link to project: https://dans7an.github.io/Rock-Paper-Scissors/.
 
 <img src="final.png" >
 
-## How It's Made:
+How It's Made:
 ###Tech used:
 HTML, CSS, Vanilla JavaScript
 
